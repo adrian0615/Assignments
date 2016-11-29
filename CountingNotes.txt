@@ -1,0 +1,11 @@
+Hey TJ,
+
+
+On the Decimal conversions, I multiplied each corresponding decimal by x^0, x^1, x^2….. depending on which conversion I was doing (binary, octal, and hexadecimal).
+
+On the Hexadecimal conversions, I did a counting method to get the resulting conversion.
+
+I now realize that both methods were wrong.  Stay tuned for updated calculations
+
+
+-Adrian
